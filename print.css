@@ -1,0 +1,8 @@
+@media print {
+    .noprint {
+        display: none;
+    }
+    input, span, i {
+        display: none;
+    }
+}
